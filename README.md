@@ -12,3 +12,6 @@ The most popular approach to implement YOLO is by using Darknet. For this OpenCV
 •	Using loop over all found boxes, if box is appearing in indexes then only draw rectangle, colour it, put text of class name on it.
 
 
+For more information and weight files visit https://pjreddie.com/darknet/yolo/
+
+
